@@ -1,5 +1,5 @@
 <h1>💫 About Me :</h1>
-<h3 align="center">A passionate Full Stack developer from Morocco</h3>
+<h3>A passionate Full Stack developer from Morocco</h3>
 
 - 🔭 I’m currently working on a Job Portal Website **Mihna**
 - 🌱 I’m currently learning Laravel.
@@ -18,8 +18,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=maimoune21&theme=dark&hide_border=false)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=maimoune21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Profile Views -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maimoune21&label=Profile%20views&color=0e75b6&style=flat" alt="maimoune21" /> </p>
-
 <!-- Snake Animation -->
 ![snake gif](https://github.com/maimoune21/maimoune21/blob/output/github-snake-dark.svg)
+
+<!-- Profile Views -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maimoune21&label=Profile%20views&color=0e75b6&style=flat" alt="maimoune21" /> </p>
