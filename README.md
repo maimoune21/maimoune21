@@ -25,3 +25,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maimoune21&" alt="maimoune21" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maimoune21&show_icons=true&locale=en&layout=compact" alt="maimoune21" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maimoune21" alt="maimoune21" /></a></p>
+
+![snake gif](https://github.com/maimoune21/maimoune21/blob/output/github-snake-dark.svg)
