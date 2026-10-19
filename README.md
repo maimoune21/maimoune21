@@ -1,8 +1,6 @@
 <h1>💫 About Me :</h1>
 <h3>A passionate Full Stack developer from Morocco</h3>
 
-- 🔭 I’m currently working on a Job Portal Website **Mihna**
-- 🌱 I’m currently learning Laravel.
 - 💬 Ask me about full-stack development.
 - 👨‍💻 All of my projects are available at [https://maimoune21.github.io/Portfolio/](https://maimoune21.github.io/Portfolio/)
 - 📫 How to reach me **mohamedmaimouneh@gmail.com**
